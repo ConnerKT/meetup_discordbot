@@ -1,0 +1,1 @@
+This is the bot setup for a slack bot, which will ping servers it belongs to about meetups for that day.
